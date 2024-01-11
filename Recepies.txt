@@ -6,7 +6,8 @@ idly
 dosa
 sambar
 chutney
-
+beans
+tomato
 thank you
 
 
